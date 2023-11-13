@@ -1,5 +1,5 @@
 {
-  "name": "chd103_sass",
+  "name": "Sass_Gulp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sexfat/chd103_sass.git"
+    "url": "git+https://github.com/MegaraWan/Sass_Gulp.git"
   },
   "keywords": [],
   "author": "",
