@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sexfat/chd103_sass/issues"
+    "url": "https://github.com/MegaraWan/Sass_Gulp/issues"
   },
-  "homepage": "https://github.com/sexfat/chd103_sass#readme",
+  "homepage": "https://github.com/MegaraWan/Sass_Gulp#readme",
 
   "devDependencies": {
     "browser-sync": "^2.29.3",
